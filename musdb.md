@@ -1,4 +1,4 @@
-# musdb18 data set
+# MUSDB18 dataset
 
 <img src="imgs/musheader.svg" alt="Drawing"/>
 
@@ -28,7 +28,7 @@ A detailled list of all tracks [can be found here](https://github.com/sigsep/sig
 
 ### Download
 
-* [Download Full Dataset (4.4 Gb)](https://www.dropbox.com/s/yxa5hbgunbbje4l/musdb18.zip?dl=1)
+* [Download Full Dataset (4.4 Gb)](https://www.dropbox.com/s/yxa5hbgunbbje4l/musdb18.zip?dl=1) (MD5: af06762477334799bfc5abf237648207)
 * [Download Sample Data (11 MB)](https://www.dropbox.com/s/aihhp0fkboefxy3/mus-sample.zip?dl=1)
 
 ### Tools
