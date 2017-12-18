@@ -6,6 +6,8 @@ The _musdb18_ consists of 150 songs of different styles along with the images of
 
 _musdb18_ contains two folders, a folder with a training set: "train", composed of 100 songs, and a folder with a test set: "test", composed of 50 songs. Supervised approaches should be trained on the training set and tested on both sets.
 
+<img src="imgs/stems.png" alt="stems"/ align="right" width="190px">
+
 All files from the _musdb18_ dataset are encoded in the [Native Instruments stems format](http://www.stems-music.com/) (.mp4). It is a multitrack format composed of 5 stereo streams, each one encoded in AAC @256kbps. These signals correspond to:
 
 - `0` - The mixture,
@@ -24,16 +26,14 @@ The data from _musdb18_ is composed of several different sources:
 
 ### Download
 
-<img src="imgs/stems.png" alt="stems"/>
-
 * Download Sample Data (11 MB)
 * Download Full Dataset (4.4 Gb)
 
 ### Tools
 
-* [Python based dataset parser](https://github.com/sigsep/sigsep-mus-db)
-* [stempeg, STEM reader and writer](https://github.com/faroit/stempeg)
-* [Docker scripts for encoding](https://github.com/sigsep/sigsep-mus-io).
+* [musdb](https://github.com/sigsep/sigsep-mus-db): Python based dataset parser
+* [stempeg](https://github.com/faroit/stempeg): STEM reader and writer
+* [mus-io](https://github.com/sigsep/sigsep-mus-io): Docker scripts for encoding
 
 ### Acknowledgements
 
