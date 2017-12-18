@@ -2,7 +2,7 @@
 
 <img src="imgs/musheader.svg" alt="Drawing"/>
 
-The _musdb18_ consists of 150 songs of different styles along with the images of their constitutive objects.
+The _musdb18_ consists of 150 full lengths music tracks (~10h duration) of different styles along with the images of their constitutive objects.
 
 _musdb18_ contains two folders, a folder with a training set: "train", composed of 100 songs, and a folder with a test set: "test", composed of 50 songs. Supervised approaches should be trained on the training set and tested on both sets.
 
