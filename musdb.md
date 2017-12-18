@@ -24,6 +24,8 @@ The data from _musdb18_ is composed of several different sources:
 * 2 tracks were kindly provided by Native Instruments originally part of [their stems pack](https://www.native-instruments.com/en/specials/stems-for-all/free-stems-tracks/).
 * 2 tracks a from from the Canadian rock band The Easton Ellises as part of the [heise stems remix competition](https://www.heise.de/ct/artikel/c-t-Remix-Wettbewerb-The-Easton-Ellises-2542427.html#englisch), licensed under Creative Commons (BY-NC-SA 3.0).
 
+A detailled list of all tracks [can be found here](https://github.com/sigsep/sigsep.github.io/blob/master/data/tracklist.csv)
+
 ### Download
 
 * Download Sample Data (11 MB)
