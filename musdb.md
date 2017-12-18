@@ -1,6 +1,6 @@
 # musdb18 data set
 
-<img src="http://sisec17.audiolabs-erlangen.de/dist/713d45446de91455e5e96ae0a4959a7e.svg" alt="Drawing"/>
+<img src="imgs/musheader.svg" alt="Drawing"/>
 
 The _musdb18_ consists of 150 songs of different styles along with the images of their constitutive objects.
 
@@ -24,23 +24,25 @@ The data from _musdb18_ is composed of several different sources:
 
 ### Download
 
+<img src="imgs/stems.png" alt="stems"/>
+
 * Download Sample Data (11 MB)
 * Download Full Dataset (4.4 Gb)
 
 ### Tools
 
-* parsing the dataset:
-* reading stem files: Reading a stem file can be done either with the provided [stempeg](https://github.com/faroit/stempeg) python package.
-* Encoding/Decoding: [conversion utility](https://github.com/sigsep/sigsep-mus-io).
+* [Python based dataset parser](https://github.com/sigsep/sigsep-mus-db)
+* [stempeg, STEM reader and writer](https://github.com/faroit/stempeg)
+* [Docker scripts for encoding](https://github.com/sigsep/sigsep-mus-io).
 
 ### Acknowledgements
 
 We would like to thank Mike Senior, Rachel Bittner, and also Mickael Le Goff, not only for giving us the permission to use this multitrack material, but also for maintaining such resources for the audio community.
 
-Authors:
-Zafar Rafii, (zafarrafii@gmail.com)
-Antoine Liutkus, (antoine.liutkus@inria.fr)
-Fabian-Robert Stöter (mail@faroit.com)
-Stylianos - Ioannis Mimilakis, (stylianos.ioannis.mimilakis@idmt.fraunhofer.de)
+#### Authors
 
-Last Update: December 17th, 2017
+- Zafar Rafii
+- Antoine Liutkus
+- Fabian-Robert Stöter
+- Stylianos Ioannis Mimilakis
+- Rachel Bittner
