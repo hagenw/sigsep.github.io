@@ -28,8 +28,8 @@ A detailled list of all tracks [can be found here](https://github.com/sigsep/sig
 
 ### Download
 
-* Download Sample Data (11 MB)
-* Download Full Dataset (4.4 Gb)
+* [Download Full Dataset (4.4 Gb)](https://www.dropbox.com/s/yxa5hbgunbbje4l/musdb18.zip?dl=1)
+* [Download Sample Data (11 MB)](https://www.dropbox.com/s/aihhp0fkboefxy3/mus-sample.zip?dl=1)
 
 ### Tools
 
