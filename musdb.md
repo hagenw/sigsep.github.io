@@ -1,4 +1,4 @@
-# MUSDB18 dataset
+# MUSDB18 dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117372.svg)](https://doi.org/10.5281/zenodo.1117372)
 
 <img src="imgs/musheader.svg" alt="Drawing"/>
 
@@ -28,8 +28,8 @@ A detailled list of all tracks [can be found here](https://github.com/sigsep/sig
 
 ### Download
 
-* [Download Full Dataset (4.4 Gb)](https://www.dropbox.com/s/yxa5hbgunbbje4l/musdb18.zip?dl=1) (MD5: af06762477334799bfc5abf237648207)
-* [Download Sample Data (11 MB)](https://www.dropbox.com/s/aihhp0fkboefxy3/mus-sample.zip?dl=1)
+* [Direct Download Full Dataset (4.4 Gb)](https://www.dropbox.com/s/yxa5hbgunbbje4l/musdb18.zip?dl=1) (MD5: af06762477334799bfc5abf237648207)
+* [Direct Download Sample Data (11 MB)](https://www.dropbox.com/s/aihhp0fkboefxy3/mus-sample.zip?dl=1)
 
 ### Tools
 
@@ -48,3 +48,22 @@ We would like to thank Mike Senior, Rachel Bittner, and also Mickael Le Goff, no
 - Fabian-Robert Stöter
 - Stylianos Ioannis Mimilakis
 - Rachel Bittner
+
+### Citation
+
+If you use this dataset, please reference it accordingly:
+
+```
+@misc{rafii_zafar_2017_1117372,
+  author       = {Rafii, Zafar and
+                  Liutkus, Antoine and
+                  Fabian-Robert Stöter and
+                  Mimilakis, Stylianos Ioannis and
+                  Bittner, Rachel},
+  title        = {musdb18},
+  month        = dec,
+  year         = 2017,
+  doi          = {10.5281/zenodo.1117372},
+  url          = {https://doi.org/10.5281/zenodo.1117372}
+}
+```
